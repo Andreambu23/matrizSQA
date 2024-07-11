@@ -1,11 +1,5 @@
 # matrizSQA
 
-André Donizeti da Silva
-
-andreqro234@gmail.com
-
-# 1
-
 ## Módulo 1
 
 #### Conteúdo Técnico
@@ -30,7 +24,8 @@ andreqro234@gmail.com
 - Utilização do Github desktop e que ele não possui algumas funções de linhas de comando;
 - Já possuo conceito de condicionais bem como seus operadores lógicos e de comparação;
 - Tenho conhecimento de como acessar os dados de arrays e como eles são posicionais em relação aos index, sobre loops já tive contato com "for" tradicional e "for of";
-- Tenho conhecimento de como acessar os dados dentro de objetos.
+- Tenho conhecimento de como acessar os dados dentro de objetos;
+- Das carreiras em tec sei que existem inumeras áreas para que possamos atuar como freelancer, PJ ou CLT.
 
 # 3 - O que quero aprender
 
@@ -40,6 +35,8 @@ andreqro234@gmail.com
 - Saber a diferença de utilização do Typescript para o Javascript
 - Tratar, iniciar, inserir, alterar e deletar informações de um array, usar os loops para incrementar ou deleter valores de arrays e extrair valores para serem processados;
 - Entender sobre objetos, como reconhecer e como trata-los
+- Conhecer do que se tratam os Soft Skills
+- Conhecer as carreiras em tecnologia e como se tornar freelancer, PJ e obter dicas de como é o processo seletivo para contratação CLT.
 
 # 4 - Minha evolução
 
@@ -52,3 +49,5 @@ com o Oh! My ZSH que facilita a vida demais em relação a comandos no terminal;
 ficou muito mais claro;
 - Posso dizer que estou melhor no tratamento de arrays, entendi um pouco sobre como coletar os dados para processa-los, preciso praticar mais;
 - Quanto a objetos estou com o mesmo raciocínio do tópico anterior, nada de errado com as aulas, só meu entendimento que não acompanhou completamente, preciso praticar mais, aliás, estou praticando.
+- Descobri que sou bom em soft skills, apesar de ser tímido eu sempre busco me interagir com quem faz parte do ambiente, busco fornecer ajuda no que for possível e sempre cultivo o bom clima nos ambientes de trabalho dos quais participo.
+- Conheci as carreiras em tecnologia, mas, ainda não tenho clareza de como consegui trabalhos freelance, tenho pessoas do meu circulo de amizado que são desenvolvedores e atuam como PJ e percebi que alcançar a tão almejada vaga de dev vai ser um grande desafio.
