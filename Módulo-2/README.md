@@ -1,5 +1,3 @@
-# matrizSQA
-
 ## Módulo 2
 
 #### Conteúdo Técnico
